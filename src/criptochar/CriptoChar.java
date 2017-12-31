@@ -25,6 +25,10 @@ public class CriptoChar {
         Scanner sc = new Scanner(System.in);
         System.out.println("--------PROGRAMA PARA LA DESENCRIPTACIÓN DE MENSAJES UTILIZANDO UN CIFRADO CONOCIDO--------");
         System.out.println("Por favor, introduzca la cadena a desencriptar en la próxima línea: ");
+        
+        /*feliz año nuevo
+        ####**#########***######################:*############****:###########*****-**##################****
+        */
         String cadena = sc.nextLine();
         char move;
         int count = -1;
